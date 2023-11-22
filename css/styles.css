@@ -1027,7 +1027,7 @@ button{
     margin-top: 100px;
     margin-bottom: 100px;
     gap: 0;
-    margin-left: 0;
+    margin: 0 auto;
 }
 .description{
     margin-right: 120px;
